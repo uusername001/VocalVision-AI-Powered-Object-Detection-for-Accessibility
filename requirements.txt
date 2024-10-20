@@ -4,3 +4,5 @@ numpy
 pillow
 gTTS
 playsound
+cv2
+
